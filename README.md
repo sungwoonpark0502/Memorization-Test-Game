@@ -7,4 +7,4 @@ This code does not belong to me and was done just for my practice with python an
 
 Only the 7th python file is needed to run the Game.
 
-Other 6 python files are the progress of the process.
+Other 6 python files were used to keep track of the development.
