@@ -2,7 +2,7 @@
 
 I have referred to the NadoCoding YouTube Channel Video when programming this Game.
 
-This was done just for my practice with python and game developing.
+This was done for the purpose of practicing Python
 
 
 Only the 7th python file is needed to run the Game.
